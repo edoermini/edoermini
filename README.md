@@ -28,14 +28,11 @@
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)  
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/-Flutter-31b9f6?logo=flutter&logoColor=white&style=for-the-badge)
 
 **Backend:**  
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
-
-**Mobile:**
-![Flutter](https://img.shields.io/badge/-Flutter-31b9f6?logo=flutter&logoColor=white&style=for-the-badge)
 
 **Other Tools:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)  

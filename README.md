@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Your Name – Freelance Fullstack Developer" />
+  <img src="https://your-image-link.com/banner.png" alt="Edoardo Ermini – Freelance Fullstack Developer" />
 </p>
 
 <!-- Title & Intro -->

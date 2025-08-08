@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./github-header-banner.png" alt="Edoardo Ermini – Freelance Fullstack Developer" />
+  <img src="" alt="Edoardo Ermini – Freelance Fullstack Developer" />
 </p>
 
 <!-- Title & Intro -->
